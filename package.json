@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "emailjs-com": "^3.2.0",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
